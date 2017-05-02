@@ -1,0 +1,48 @@
+# VIP Go Sites #
+############
+/web/*
+!/web/vip-go-skeleton
+!/web/vip-mu-plugins
+/wp-config-local.php
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+
+# Logs and databases #
+######################
+*.log
+*.sql
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+
+# Vim generated files #
+#######################
+*.un~
+
+# SASS #
+########
+.sass-cache
+
+# Node #
+########
+node_modules
+
+# VVV #
+#######
+vvv-hosts

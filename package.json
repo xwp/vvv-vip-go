@@ -1,0 +1,18 @@
+{
+  "name": "vvv-vip-go",
+  "version": "0.1.0",
+  "description": "Tool for local development of VIP Go sites using VVV.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xwp/vvv-vip-go.git"
+  },
+  "author": "XWP <engage@xwp.co> (https://xwp.co)",
+  "contributors": [
+    "Justin Kopepasah <justin@kopepasah.com> (https://kopepasah.com)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xwp/vvv-vip-go/issues"
+  },
+  "homepage": "https://github.com/xwp/vvv-vip-go"
+}

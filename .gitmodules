@@ -1,0 +1,9 @@
+[submodule "wp"]
+	path = wp
+	url = https://github.com/WordPress/WordPress.git
+[submodule "web/vip-go-skeleton"]
+	path = web/vip-go-skeleton
+	url = https://github.com/Automattic/vip-go-skeleton.git
+[submodule "web/vip-mu-plugins"]
+	path = web/vip-mu-plugins
+	url = https://github.com/Automattic/vip-wpcom-mu-plugins.git
