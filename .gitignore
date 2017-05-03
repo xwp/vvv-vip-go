@@ -2,7 +2,7 @@
 ############
 /web/*
 !/web/vip-go-skeleton
-!/web/vip-mu-plugins
+!/web/vip-go-mu-plugins
 /wp-config-local.php
 
 # Packages #
