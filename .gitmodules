@@ -6,4 +6,4 @@
 	url = https://github.com/Automattic/vip-go-skeleton.git
 [submodule "web/vip-go-mu-plugins"]
 	path = web/vip-go-mu-plugins
-	url = https://github.com/Automattic/vip-go-mu-plugins
+	url = https://github.com/Automattic/vip-mu-plugins-public

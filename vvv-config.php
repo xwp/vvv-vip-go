@@ -37,5 +37,5 @@ define( 'WP_HOME', VVV_VIP_GO_URL );
 define( 'WP_SITEURL', VVV_VIP_GO_URL . '/wp' );
 define( 'WP_CONTENT_DIR', dirname( __FILE__ ) . '/web/' . VVV_VIP_GO_DIR );
 define( 'WP_CONTENT_URL', VVV_VIP_GO_URL . '/web/' . VVV_VIP_GO_DIR );
-define( 'WPMU_PLUGIN_DIR', dirname( __FILE__ ) . '/web/vip-mu-plugins' );
-define( 'WPMU_PLUGIN_URL', VVV_VIP_GO_URL . '/web/vip-mu-plugins' );
+define( 'WPMU_PLUGIN_DIR', dirname( __FILE__ ) . '/web/vip-go-mu-plugins' );
+define( 'WPMU_PLUGIN_URL', VVV_VIP_GO_URL . '/web/vip-go-mu-plugins' );
